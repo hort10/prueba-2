@@ -1,0 +1,141 @@
+.version.index /* version checker */
+{
+	color: #0000FC;
+	background-color: #A2F466;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 498px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #19A6FF;
+}
+
+#u91,#u91-bw
+{
+	z-index: 2;
+	height: 71px;
+}
+
+#u93
+{
+	z-index: 4;
+	width: 109px;
+	margin-left: 135px;
+}
+
+#u99
+{
+	z-index: 6;
+	width: 292px;
+	padding-bottom: 6px;
+	margin-left: 50px;
+	margin-top: 24px;
+}
+
+#u102-4
+{
+	z-index: 9;
+	width: 97px;
+	min-height: 35px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 98px;
+}
+
+#u100
+{
+	z-index: 7;
+	width: 292px;
+	padding-bottom: 6px;
+	margin-left: 53px;
+	margin-top: 37px;
+}
+
+#u103-4
+{
+	z-index: 13;
+	width: 97px;
+	min-height: 35px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 98px;
+}
+
+#u101
+{
+	z-index: 8;
+	width: 292px;
+	padding-bottom: 6px;
+	margin-left: 50px;
+	margin-top: 31px;
+}
+
+#u104-4
+{
+	z-index: 17;
+	width: 97px;
+	min-height: 35px;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 104px;
+}
+
+#u92
+{
+	z-index: 3;
+	height: 71px;
+}
+
+#u92-bw
+{
+	z-index: 3;
+	margin-top: 58px;
+	height: 71px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

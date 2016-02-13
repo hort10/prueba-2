@@ -1,0 +1,16 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1455097236953">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-p_g_-maestra.css" crc="4109548976" ref="index"/>
+    <file name="index.css" crc="4238537830" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
+    <file name="museutils.js" crc="521960461" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="conexion urbana.png" crc="3999822687" ref="index"/>
+  </folder>
+  <file name="index.html" crc="323138963" mt="1455096406493" redirect="true"/>
+</manifest>
